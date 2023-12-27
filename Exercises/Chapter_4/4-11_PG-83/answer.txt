@@ -1,0 +1,4 @@
+I'm prity sure you need to exctange getch() 
+with getchar() and to delet ungetch().
+so 'c' will be your static variable and it 
+will be like a 'dumpster'.
