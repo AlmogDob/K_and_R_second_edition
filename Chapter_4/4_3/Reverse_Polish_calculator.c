@@ -41,13 +41,13 @@ int main(int argc, char const *argv[])
             if (op2 != 0.0)
                 push(pop() / op2);
             else
-                printf("ERROR: Divtion by zero");
+                printf("ERROR: Divtion by zero\n");
             break;
         case '\n':
             printf("\t%.8g\n", pop());
             break;
         default:
-            printf("ERROR: Unknown command %s", s);
+            printf("ERROR: Unknown command %s\n", s);
             break;
         }
     }

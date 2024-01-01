@@ -1,3 +1,3 @@
-pretty trivial
-you just change the vector of buffer with a parameter
-add you add a parameter that tell you if the buffer is being used
+די טריוואלי
+פשוט מחליפים את הווקטור של באפר בשמשתנה 
+ומוסיפים משתנה שאומר האם נעשה שימוש בבאפר
